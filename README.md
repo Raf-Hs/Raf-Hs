@@ -1,39 +1,58 @@
-# Hola, soy Rafael Hernández Silva 👋
+# Hi, I'm Rafael Hernández Silva
 
-**Desarrollador FullStack | TypeScript, React & Node.js**
+### Software Engineer | C#/.NET | React/TypeScript | SQL Server | Azure
 
-Me especializo en construir aplicaciones seguras, escalables y orientadas a resultados. Mi enfoque va más allá del código: me concentro en la arquitectura, la lógica de negocio estricta y en aplicar la regla de Pareto (80/20) para maximizar el impacto de cada desarrollo.
+I build software with a focus on reliable systems, clean architecture, and real-world engineering practices.
 
-### 🚀 Sobre mí
-- 🔭 Actualmente construyendo y escalando la arquitectura de **ESP Learning Hub** (SaaS).
-- 🌱 Enfocado en el ecosistema **TypeScript, Node.js (NestJS/Express) y React**.
-- 🏗️ Experiencia sólida en integraciones de pagos (Stripe), bases de datos relacionales y despliegues con **Docker/AWS**.
-- 🤝 Buscando unirme a una agencia o equipo sólido donde pueda aportar valor operativo desde el día uno.
+My current focus is on strengthening my skills in **C#/.NET, ASP.NET Core, Microsoft Azure, SQL Server, system design, testing, and distributed systems**.
 
-### 💻 Stack Tecnológico
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
-</p>
+## About Me
 
-### 📬 Contáctame
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-hdz-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rafael.silva.06@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="TU_LINK_DEL_PORTAFOLIO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-25292E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+- Software Engineer based in Mexico.
+- Building backend and full-stack applications with C#/.NET and React/TypeScript.
+- Working with real-world codebases and Open Source projects.
+- Learning how mature software systems are designed, tested, deployed, and maintained.
+- Interested in enterprise applications, cloud systems, distributed systems, and AI.
+- Currently contributing to my growth through hands-on projects, Open Source, and technical study.
+
+## Current Focus
+
+- C# / .NET
+- ASP.NET Core
+- React / TypeScript
+- SQL Server
+- Microsoft Azure
+- REST APIs
+- Entity Framework
+- Docker
+- GitHub Actions / CI/CD
+- Unit & Integration Testing
+- System Design
+- Distributed Systems
+- Azure OpenAI / AI Engineering
+
+## Open Source
+
+I'm actively learning by working with existing codebases rather than only building isolated portfolio projects.
+
+Current areas of interest include:
+
+- Orchard Core
+- nopCommerce
+- NSwag
+- dasBlog Core
+
+My goal is to understand how production software is developed collaboratively:
+
+**Issue → Understand → Reproduce → Implement → Test → Pull Request → Review → Merge**
+
+## Engineering Philosophy
+
+> Build software that works in the real world.
+
+I care about understanding the problem behind the code, making deliberate technical decisions, and continuously improving the way I build and maintain software.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rafael-hdz-silva)
+- [Portfolio](https://www.rafael-software.com/)
